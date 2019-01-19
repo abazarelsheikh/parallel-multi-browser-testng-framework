@@ -1,0 +1,16 @@
+black 
+red
+pink
+yellow
+cyan
+grey
+green
+purple
+lime
+teal
+space grey
+brown
+mimi blue
+sky blue 
+white
+Burgundy
